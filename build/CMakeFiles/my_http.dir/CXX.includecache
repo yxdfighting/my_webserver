@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/exbot/my_http/Server/epoll.cpp
+epoll.h
+/home/exbot/my_http/Server/epoll.h
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+stdio.h
+-
+unistd.h
+-
+fcntl.h
+-
+errno.h
+-
+iostream
+-
+
+/home/exbot/my_http/Server/epoll.h
+sys/epoll.h
+-
+functional
+-
+list
+-
+

@@ -1,0 +1,1 @@
+g++       CMakeFiles/my_http.dir/Server/TCPServer.cpp.o CMakeFiles/my_http.dir/Server/epoll.cpp.o CMakeFiles/my_http.dir/Server/channellists.cpp.o CMakeFiles/my_http.dir/Http/Request.cpp.o  -o ../bin/my_http -rdynamic 
